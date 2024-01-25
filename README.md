@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/Sanni-Damilola">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola" alt="Top Languages" />
+    <a href="https://github.com/Okwoli-Godwin">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okwoli-Godwin" alt="Top Languages" />
     </a>
-    <a href="https://github.com/Sanni-Damilola">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola&layout=compact&theme=vision-friendly-dark" alt="Top Languages Compact" />
+    <a href="https://github.com/Okwoli-Godwin">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okwoli-Godwin&layout=compact&theme=vision-friendly-dark" alt="Top Languages Compact" />
     </a>
 </div>
 
@@ -16,7 +16,7 @@
 <hr/>
 
 <div align="center">
-    <a href="https://github.com/Sanni-Damilola">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=dark&layout=compact" alt="GitHub Streak" />
+    <a href="https://github.com/Okwoli-Godwin">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Okwoli-Godwin&theme=dark&layout=compact" alt="GitHub Streak" />
     </a>
 </div>
